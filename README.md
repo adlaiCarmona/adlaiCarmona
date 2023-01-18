@@ -1,7 +1,8 @@
 <h1 align="center">✨Hello There! I'm Daniel Carmona✨</h1>
 <h4 align="center">He/Him</h4>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Always+learning+new+things!;Full-Stack+Developer" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Always+learning+new+things!;Full-Stack+Developer" alt="Typing SVG" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <!-- Social icons section -->
